@@ -1,5 +1,5 @@
-title:            Blog Title
-description:      Describe your website here.
+title:            Red-Clips
+description:      Representation of interest
 disqus_shortname: neohpstrtheme
 reading_time:     true
 words_per_minute: 200
@@ -28,30 +28,30 @@ menu:
 
 # Owner/author information
 owner:
-  name:           Your name
-  site:           http://aronbordin.com
+  name:           happysun2
+  site:           http://happysun2.github.io
   avatar:         images/avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  email:          happysun2@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter: aron_bordin
-  facebook:
-  github: aron-bordin
-  stackexchange:
-  linkedin:
-  instagram:
-  flickr:
-  tumblr:
+  twitter: sun2zoa
+  #facebook:
+  github: happysun2
+  #stackexchange:
+  #linkedin:
+  #instagram:
+  #flickr:
+  #tumblr:
   # google plus id, include the '+', eg +AronBordin
-  google_plus:    +yourid
+  google_plus:    +happysun2
 
 social:
   - title: "github"
-    url: "https://github.com/aron-bordin"
+    url: "https://github.com/happysun2"
   - title: "linkedin"
-    url: "https://br.linkedin.com/in/aronbordin"
+    url: "" #"https://br.linkedin.com/in/aronbordin"
   - title: "youtube"
-    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
+    url: "" #"https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
 # Background image to be tiled on all pages
 background:
 
@@ -62,7 +62,7 @@ google_verify:
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Seoul
 future:      true
 highlighter: pygments
 markdown:    kramdown
